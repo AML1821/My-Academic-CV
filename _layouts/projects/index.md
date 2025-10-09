@@ -16,4 +16,4 @@ title: Projects
 
 ## Website Development 
 - Designed and deployed a personal academic website using GitHub Pages to showcase CV, research, publications, and projects.
-- Customized Jekyll-based theme Cayman for a professional online presence aligned with academic standards.
+- Customized Jekyll-based theme 'Cayman' for a professional online presence aligned with academic standards.
