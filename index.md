@@ -18,7 +18,7 @@ I'm a Ph.D. student specializing in Composition and Rhetoric with a sub-focus in
 
 ### Publications and/or Conferences
 1. "AI-Generated Texts and Social Reflection", *GSOLE Webinar*, 2026  
-2. Full-length article (invited), *Written Communication Journal*, forthcoming
+2. Invited article (in development), *Written Communication Journal*, forthcoming
 
 ### Contact
 - Email: al831709@ucf.edu
