@@ -4,13 +4,20 @@
 407.823.3000 • Orlando, FL • al831709@ucf.edu  
 
 <!-- TOC -->
-- [Education](#education)
-- [Research Experience](#research-experience)
-- [Professional Teaching & Writing Experience](#professional-teaching--writing-experience)
-- [Certifications / Training](#certifications--training)
-- [Invited Presentations & Professional Development](#invited-presentations--professional-development)
-- [Teaching Methodologies & Assessment Tools](#teaching-methodologies--assessment-tools)
-- [Software / Computer Technologies](#software--computer-technologies)
+- [My-Academic-CV](#my-academic-cv)
+- [Alicia M. Lienhart](#alicia-m-lienhart)
+  - [Education](#education)
+  - [Research Experience](#research-experience)
+  - [Professional Teaching \& Writing Experience](#professional-teaching--writing-experience)
+    - [**Adjunct Instructor \& Tutor**](#adjunct-instructor--tutor)
+    - [**Communications Director** *(Remote)*](#communications-director-remote)
+    - [**Literacy Coach**](#literacy-coach)
+    - [**Second Grade Teacher**](#second-grade-teacher)
+    - [**First and Second Grade Teacher**](#first-and-second-grade-teacher)
+  - [Certifications / Training](#certifications--training)
+  - [Invited Presentations \& Professional Development](#invited-presentations--professional-development)
+  - [Teaching Methodologies \& Assessment Tools](#teaching-methodologies--assessment-tools)
+  - [Software / Computer Technologies](#software--computer-technologies)
 <!-- /TOC -->
 
 ---
@@ -22,14 +29,14 @@ Texts and Technology, focus on Composition and Rhetoric
 Sub-focus: Generative AI Literacies  
 **University of Central Florida**, Orlando, FL  
 
-**Professional Writing Graduate Certificate (PWGC)** — *2025*  
+**Professional Writing Graduate Certificate (PWGC)**   
 Department of Writing and Rhetoric, 18 credits  
 **University of Central Florida**, Orlando, FL  
 
-**Master of Arts (M.A.) in Education** — *2000*  
+**Master of Arts (M.A.) in Education**   
 **University of South Florida**, St. Petersburg, FL  
 
-**Bachelor of Arts (B.A.) in Liberal Studies (English Focus)** — *1993*  
+**Bachelor of Arts (B.A.) in Liberal Studies (English Focus)**
 **University of Central Florida**, Orlando, FL  
 
 ---
