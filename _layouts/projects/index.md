@@ -13,3 +13,7 @@ title: Projects
 ## AI & Composition Pedagogy  
 - Co-authoring article for *Written Communication*  
 - Focus on GenAI literacies in First-Year Writing 
+
+## Website Development 
+- Designed and deployed a personal academic website using GitHub Pages to showcase CV, research, publications, and projects.
+- Customized Jekyll-based theme Cayman for a professional online presence aligned with academic standards.
