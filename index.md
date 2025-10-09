@@ -17,7 +17,6 @@ I'm a PhD student at UCF in the Texts & Technology program, focusing on writing 
 ### Research Interests
 - Reflection 
 - - [Alicia M. Lienhart](#alicia-m-lienhart)
-  - [PhD Student in Texts and Technology | University of Central Florida](#phd-student-in-texts-and-technology--university-of-central-florida)
     - [Table of Contents](#table-of-contents)
     - [About Me](#about-me)
     - [Research Interests](#research-interests)
