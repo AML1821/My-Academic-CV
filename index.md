@@ -11,19 +11,21 @@ title: Alicia M. Lienhart - Academic Portfolio
 ### Table of Contents
 <!-- toc -->
 
-### About Me
-I'm a PhD student at UCF in the Texts & Technology program, focusing on writing transfer, rhetorical reflection, and GenAI literacies.
-
-### Research Interests
-- Reflection 
-- - [Alicia M. Lienhart](#alicia-m-lienhart)
+[Alicia M. Lienhart](#alicia-m-lienhart)
     - [Table of Contents](#table-of-contents)
     - [About Me](#about-me)
     - [Research Interests](#research-interests)
     - [Publications and/or Conferences](#publications-andor-conferences)
     - [Contact](#contact)
     - [Follow Me](#follow-me)
-Teaching for Transfer (TFT)
+
+
+### About Me
+I'm a PhD student at UCF in the Texts & Technology program, focusing on writing transfer, rhetorical reflection, and GenAI literacies.
+
+### Research Interests
+- Reflection 
+- Teaching for Transfer (TFT)
 - AI-assisted writing in composition
 - Rhetorical reflection
 - Digital literacies and pedagogy
