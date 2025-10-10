@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Alicia M. Lienhart - Academic Portfolio
 ---
-
-<link rel="stylesheet" href="assets/css/style.scss">
 
 ![Featured Image](/assets/featured-image.jpg)
 
