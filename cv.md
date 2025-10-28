@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 **[Alicia M. Lienhart]{.smallcaps}**
 
 407.489.2462 • Orlando, FL• amlienhart2@gmail.com
