@@ -8,3 +8,12 @@ header {
   background-color: darkslategray;
   color: white;
 }
+/* Change the color of nav links */
+header a {
+  color: white;       /* This sets the text color of links */
+  text-decoration: none; /* Removes underline */
+}
+
+header a:hover {
+  color: orange;      /* This changes the color when you hover over a link */
+}
