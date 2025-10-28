@@ -1,7 +1,9 @@
 ---
 layout: default
 title: CV
+permalink: /cv/
 ---
+
 
 **[Alicia M. Lienhart]{.smallcaps}**
 
