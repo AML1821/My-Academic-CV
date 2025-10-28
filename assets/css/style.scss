@@ -9,11 +9,11 @@ header {
   color: white;
 }
 /* Change the color of nav links */
-header a {
-  color: white;       /* This sets the text color of links */
-  text-decoration: none; /* Removes underline */
+header.page-header a {
+  color: white !important;       /* Force white color */
+  text-decoration: none !important; /* Remove underline */
 }
 
-header a:hover {
-  color: orange;      /* This changes the color when you hover over a link */
+header.page-header a:hover {
+  color: orange !important;      /* Change on hover */
 }
