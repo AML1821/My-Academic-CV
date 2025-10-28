@@ -109,4 +109,5 @@ Department of Writing and Rhetoric, 18 credits
 - Canvas  
 - Zoom / Microsoft Teams  
 - Zotero
-
+  
+  
