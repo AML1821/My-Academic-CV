@@ -9,7 +9,8 @@ permalink: /cv/
 
 407.489.2462 • Orlando, FL• amlienhart2@gmail.com
 
-**[Education]{.smallcaps}**
+**<span class="smallcaps">Education</span>**
+
 
 - **Doctor of Philosophy (Ph.D.) student in Texts and Technology**,
   **with a focus on Composition and Rhetoric and a sub focus on GenAI
