@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-**[Alicia M. Lienhart]wrap the word inside <span class="smallcaps">…</span>**
+**[Alicia M. Lienhart]<span class="smallcaps">…</span>**
 
 407.489.2462 • Orlando, FL• amlienhart2@gmail.com
 
@@ -16,24 +16,24 @@ permalink: /cv/
   **with a focus on Composition and Rhetoric and a sub focus on GenAI
   literacies**, (*In-Progress)*
 
-[University of Central Florida]wrap the word inside <span class="smallcaps">…</span> *(Orlando, FL)*
+[University of Central Florida]<span class="smallcaps">…</span> *(Orlando, FL)*
 
 - **Professional Writing Graduate Certificate (PWGC*),* [Writing and
   Rhetoric]{.underline} -18 credits**
 
-[University of Central Florida]wrap the word inside <span class="smallcaps">…</span> *(Orlando, FL) 2025*
+[University of Central Florida]<span class="smallcaps">…</span> *(Orlando, FL) 2025*
 
 - **Master of Arts (M.A.) in Education**
 
-[University of South Florida]wrap the word inside <span class="smallcaps">…</span> *(St. Petersburg, FL)*
+[University of South Florida]<span class="smallcaps">…</span> *(St. Petersburg, FL)*
 
 - **Bachelor of Arts (B.A.) in Liberal Studies with a focus on English**
 
-[University of Central Florida]wrap the word inside <span class="smallcaps">…</span> *(Orlando, FL)*
+[University of Central Florida]<span class="smallcaps">…</span> *(Orlando, FL)*
 
-**[Research Experience]wrap the word inside <span class="smallcaps">…</span>**
+**[Research Experience]<span class="smallcaps">…</span>**
 
-[[University of Central Florida]{.underline}]wrap the word inside <span class="smallcaps">…</span> *(Orlando,
+[[University of Central Florida]{.underline}]<span class="smallcaps">…</span> *(Orlando,
 FL)*
 
 **Graduate Research Assistant** 08/ 2024 to Present
@@ -61,9 +61,9 @@ FL)*
 - Managing *Zotero* group library and project documentation to
   streamline collaborative workflow
 
-**[Professional Teaching & Writing Experience]wrap the word inside <span class="smallcaps">…</span>**
+**[Professional Teaching & Writing Experience]<span class="smallcaps">…</span>**
 
-*[[South college]{.underline}]wrap the word inside <span class="smallcaps">…</span>, (Orlando Campus)*
+*[[South college]{.underline}]<span class="smallcaps">…</span>, (Orlando Campus)*
 .......................................................07 / 2025-
 Present
 
@@ -83,31 +83,30 @@ Present
 - Collected student feedback and reflective evaluations for ongoing
   teaching portfolio
 
-**[Certifications / Training]wrap the word inside <span class="smallcaps">…</span>**
+**[Certifications / Training] <span class="smallcaps">…</span>**
 
 - **GSOLE Online Writing Instruction Certificate** -- *In-Progress* (Aug
   2025--2026 Cohort)
 
 - **Institutional Review Board (IRB) approval course modules
-  completed***, 11/ 2024:* [University of Central Florida]wrap the word inside <span class="smallcaps">…</span>
-
+  completed***, 11/ 2024:* [University of Central Florida]
 - **Preparing Tomorrow's Faculty Certification**, *08/ 2024*:
-  [University of Central Florida]wrap the word inside <span class="smallcaps">…</span>
+  [University of Central Florida]<span class="smallcaps">…</span>
 
 <!-- -->
 
 - **Professional Educator's Certificate,** *2021-2026:* [State of
-  Florida, Department of Education]wrap the word inside <span class="smallcaps">…</span>
+  Florida, Department of Education]<span class="smallcaps">…</span>
 
 - **Reading Endorsement,** *2021-2026:* [State of Florida, Department of
-  Education]wrap the word inside <span class="smallcaps">…</span>
+  Education]<span class="smallcaps">…</span>
 
 - **TESOL Certification**, *2018: 120 hours completed,* [International
-  Open Academy]wrap the word inside <span class="smallcaps">…</span>
+  Open Academy]<span class="smallcaps">…</span>
 
-- **Writers' In Paradise,** [2017: Eckerd College]wrap the word inside <span class="smallcaps">…</span>
+- **Writers' In Paradise,** [2017: Eckerd College]<span class="smallcaps">…</span>
 
-**[Invited Presentations & professional development]wrap the word inside <span class="smallcaps">…</span>**
+**[Invited Presentations & professional development]<span class="smallcaps">…</span>**
 
 - Selected to co-present in GSOLE's national webinar series focused on
   online literacy and composition pedagogy, "Beginning the Conversation:
@@ -120,7 +119,7 @@ Present
   mentors (Kara Taczak, Ph.D., Meghan Velez, Ph.D.) to design
   interactive materials for synchronous and asynchronous delivery
 
-**[Teaching Methodologies & Assessment Tools]wrap the word inside <span class="smallcaps">…</span>**
+**[Teaching Methodologies & Assessment Tools]<span class="smallcaps">…</span>**
 
 - Classroom Learning System (CLS)
 
@@ -140,7 +139,7 @@ Present
 
 - Teaching for Transfer (TFT)
 
-**[Software / Computer Technologies]wrap the word inside <span class="smallcaps">…</span>**
+**[Software / Computer Technologies]<span class="smallcaps">…</span>**
 
 - Google Docs Editors Suite Programs
 
@@ -154,7 +153,7 @@ Present
 
 - Zotero
 
-**[Professional Society Memberships / Volunteerism]wrap the word inside <span class="smallcaps">…</span>**
+**[Professional Society Memberships / Volunteerism]<span class="smallcaps">…</span>**
 
 - Conference on College Composition and Communication (CCCC)
 
