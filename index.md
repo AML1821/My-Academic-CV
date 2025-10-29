@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alicia M. Lienhart – Academic Portfolio
+title: Academic Portfolio
 ---
 
 ![Featured Image](/assets/featured-image.jpg)
