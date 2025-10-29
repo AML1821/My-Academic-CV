@@ -7,6 +7,7 @@ title: Academic Portfolio
 
 # Alicia M. Lienhart  
 ## PhD Student in Texts and Technology | University of Central Florida  
+[View My CV](/cv/){: .button }
 
 ---
 
