@@ -23,11 +23,12 @@ header.page-header a:hover {
   font-variant: small-caps;
 }
 
-/* Custom header and divider styling */
+/* Custom header colors */
 h1, h2, h3 {
   color: #004080;       /* Deep blue for headers */
 }
 
+/* Horizontal dividers */
 hr {
   border: 1px solid #cccccc; /* Subtle gray line */
   margin: 2em 0;             /* Adds vertical spacing */
@@ -41,17 +42,17 @@ img {
   max-width: 80%;      /* Prevent image from being too wide */
 }
 
-/* Optional: add some padding to main content */
+/* Padding for main content */
 #main-content {
   padding: 0 1em;
 }
 
-/* Optional: nicer list styling */
+/* Better list spacing */
 ul, ol {
   margin-left: 2em;
 }
 
-/* Optional: hover effect for links in content */
+/* Link styling */
 a {
   color: #004080;
   text-decoration: underline;
