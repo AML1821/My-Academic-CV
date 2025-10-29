@@ -1,22 +1,63 @@
 ---
----
 
 @import 'jekyll-theme-cayman';
 
-/* Try this test change */
+/* Header styling */
 header {
   background-color: darkslategray;
   color: white;
 }
+
 /* Change the color of nav links */
 header.page-header a {
-  color: white !important;       /* Force white color */
+  color: white !important;          /* Force white color */
   text-decoration: none !important; /* Remove underline */
 }
 
 header.page-header a:hover {
-  color: orange !important;      /* Change on hover */
+  color: orange !important;         /* Change on hover */
 }
+
+/* Small caps for selected text */
 .smallcaps {
   font-variant: small-caps;
+}
+
+/* Custom header and divider styling */
+h1, h2, h3 {
+  color: #004080;       /* Deep blue for headers */
+}
+
+hr {
+  border: 1px solid #cccccc; /* Subtle gray line */
+  margin: 2em 0;             /* Adds vertical spacing */
+}
+
+/* Featured image centering */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;      /* Prevent image from being too wide */
+}
+
+/* Optional: add some padding to main content */
+#main-content {
+  padding: 0 1em;
+}
+
+/* Optional: nicer list styling */
+ul, ol {
+  margin-left: 2em;
+}
+
+/* Optional: hover effect for links in content */
+a {
+  color: #004080;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: darkorange;
+  text-decoration: none;
 }
