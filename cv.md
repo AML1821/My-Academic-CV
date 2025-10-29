@@ -6,7 +6,7 @@ permalink: /cv/
 
 **<span class="smallcaps">Alicia M. Lienhart</span>**
 
-407.489.2462 • Orlando, FL • al831709@ucf.edu
+Orlando, FL • al831709@ucf.edu
 
 **<span class="smallcaps">Education</span>**
 
