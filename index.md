@@ -13,7 +13,9 @@ title: Alicia M. Lienhart – Academic Portfolio
 ### Welcome
 Welcome to my professional portfolio!  
 
+
 I’m a researcher, instructor, and PhD student in the **Texts & Technology** program at the University of Central Florida.  
+
 
 My work explores how digital tools, AI-assisted writing, and reflective practice shape the teaching and learning of writing in higher education. This site highlights my research interests, publications, and teaching experience. It also serves as a digital space for my ongoing academic and professional projects. 
 
@@ -21,6 +23,7 @@ My work explores how digital tools, AI-assisted writing, and reflective practice
 
 ### About Me
 I am passionate about exploring how writers learn to transfer knowledge across contexts—academic, digital, and professional. My background in **Teacher Training** and **Writing and Rhetoric** has guided my work in developing student-centered, reflective writing practices that embrace emerging technologies responsibly. I am actively exploring research fellowship opportunities through UCF’s Institute of Artificial Intelligence to advance my work in AI-assisted writing and digital literacies. 
+
 
 I currently serve as a **Graduate Research Assistant** at UCF and as an **Adjunct Instructor of English Composition** teaching courses emphasizing critical reflection and rhetorical awareness.
 
