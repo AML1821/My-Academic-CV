@@ -1,0 +1,76 @@
+# Data for the Visual Analysis Workshop page.
+# Each entry pairs an LoC image with metadata, Claude's analysis, and a
+# rhetoric & composition reading. Edit text here rather than in the page.
+
+- id: 1
+  image: /assets/images/visual-workshop/image-1.jpg
+  alt: "Black-and-white photograph of a teacher and elementary school students gathered around a table of library books"
+  title: "Library Reading Hour"
+  source: "Library of Congress, Prints & Photographs Division"
+  date: "c. 1940s (estimated, based on style and FSA-era photography conventions)"
+  subject: "Elementary school teacher and students gathered around library books"
+  license: "Public domain"
+  ai_analysis: >
+    Replace with Claude's analysis of this image — composition, lighting,
+    body language, and what the image seems designed to communicate about
+    literacy and the library as a social space.
+  rhet_comp_reading: >
+    Replace with your disciplinary reading — e.g., what this image argues
+    about literacy sponsorship, the visual rhetoric of mid-century reading
+    instruction, or how the photograph constructs an ethos of communal
+    literacy.
+
+- id: 2
+  image: /assets/images/visual-workshop/image-2.jpg
+  alt: "Black-and-white photograph of a teacher demonstrating cursive penmanship on a chalkboard to a line of young students"
+  title: "Penmanship Lesson"
+  source: "Library of Congress, Prints & Photographs Division"
+  date: "Early 20th century (estimated)"
+  subject: "Teacher modeling cursive penmanship on a chalkboard for a line of young students"
+  license: "Public domain"
+  ai_analysis: >
+    Replace with Claude's analysis of this image — staging, the chalkboard
+    text itself, classroom hierarchy, and what visual cues signal about
+    pedagogy and discipline.
+  rhet_comp_reading: >
+    Replace with your disciplinary reading — e.g., handwriting pedagogy as
+    a technology of literacy, the rhetorical function of the model text on
+    the board, or embodied/disciplinary aspects of early writing
+    instruction.
+
+- id: 3
+  image: /assets/images/visual-workshop/image-3.jpg
+  alt: "Contemporary color photograph of a Victorian-era house with a wrought-iron gate featuring bat and spider motifs"
+  title: "Author's House"
+  source: "Library of Congress, Prints & Photographs Division"
+  date: "Contemporary photograph (Victorian-era house)"
+  subject: "Exterior view of author Stephen King's Bangor, Maine residence, including wrought-iron gate with bat and spider motifs"
+  license: "Public domain"
+  ai_analysis: >
+    Replace with Claude's analysis of this image — architecture, the gate's
+    iconography, and what the image communicates about authorship, genre,
+    and place.
+  rhet_comp_reading: >
+    Replace with your disciplinary reading — e.g., the house as paratext to
+    an authorial brand, genre signaling through visual iconography, or the
+    rhetoric of literary tourism and authorship as a public text.
+
+- id: 4
+  image: /assets/images/visual-workshop/image-4.jpg
+  alt: "Hand-colored 1788 satirical etching of a writer in a chair gesturing toward a framed portrait, with a caged bird and scattered papers"
+  title: "The Moment of Imagination"
+  source: "Library of Congress, Prints & Photographs Division"
+  date: "1788"
+  creator: "M. George, published by W. Holland"
+  subject: "Satirical hand-colored etching of a writer in a chair gesturing toward a portrait, with a caged bird and discarded papers on the floor"
+  license: "Public domain"
+  ai_analysis: >
+    Replace with Claude's analysis of this image — satire conventions,
+    symbolism of the caged bird and scattered papers, and what the etching
+    suggests about period attitudes toward authorship and inspiration.
+  rhet_comp_reading: >
+    Replace with your disciplinary reading — e.g., the caricature as a
+    rhetorical commentary on Romantic-era notions of inspiration, the
+    visual satire of the writing process, or how the print constructs
+    (and mocks) the figure of "the writer."
+    
