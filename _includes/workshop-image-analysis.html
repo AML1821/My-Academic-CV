@@ -1,0 +1,31 @@
+<section class="workshop-item" id="image-{{ include.entry.id }}">
+  <h2 class="workshop-item-title">Image {{ include.entry.id }}: {{ include.entry.title }}</h2>
+
+  <figure class="workshop-figure">
+    <img src="{{ include.entry.image | relative_url }}" alt="{{ include.entry.alt }}">
+    <figcaption>
+      <table class="metadata-table">
+        <tbody>
+          <tr><th>Source</th><td>{{ include.entry.source }}</td></tr>
+          <tr><th>Date</th><td>{{ include.entry.date }}</td></tr>
+          {% if include.entry.creator %}
+          <tr><th>Creator</th><td>{{ include.entry.creator }}</td></tr>
+          {% endif %}
+          <tr><th>Subject</th><td>{{ include.entry.subject }}</td></tr>
+          <tr><th>License</th><td>{{ include.entry.license }}</td></tr>
+        </tbody>
+      </table>
+    </figcaption>
+  </figure>
+
+  <div class="workshop-readings">
+    <div class="workshop-reading ai-reading">
+      <h3>Claude's AI Analysis</h3>
+      <p>{{ include.entry.ai_analysis }}</p>
+    </div>
+    <div class="workshop-reading disciplinary-reading">
+      <h3>My Rhetoric &amp; Composition Reading</h3>
+      <p>{{ include.entry.rhet_comp_reading }}</p>
+    </div>
+  </div>
+</section>
