@@ -1,0 +1,90 @@
+[33md1b613d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Commit message
+[33m821269a[m Interdisciplinary Teaching
+[33m4523146[m Update index.md
+[33mb55b580[m Update CV
+[33m651198f[m update
+[33me1fb32c[m Update
+[33m6669da7[m Update
+[33mcdf0d66[m Update
+[33ma2cb6f2[m update
+[33m3898064[m update
+[33m1bcb270[m update
+[33m7f7229d[m update
+[33mb65b0fb[m update
+[33m91e6c6d[m update
+[33maefc19f[m update
+[33m56b9143[m update
+[33m6841ffb[m update
+[33m5d52c0f[m update
+[33m491d6da[m Update
+[33m739301e[m update
+[33m25f7415[m Update
+[33mc378c5e[m update
+[33m853e720[m Update
+[33m0237426[m Update
+[33m837ce63[m Update
+[33me4a664d[m updated the code
+[33m77e6246[m Update
+[33m6f2f085[m Smallcaps
+[33m9ce0125[m Update
+[33m606cfc5[m Update
+[33m2a6fe5f[m URL
+[33m80400ff[m URL fix
+[33m1a2bebb[m Updated and fixed NAV
+[33mc465150[m quick fix
+[33m7137b4f[m fixed broken CV nav link
+[33m9b86875[m More Nav links than I need
+[33medc0b39[m Navigation link error
+[33me250a97[m Navigation Fix
+[33mcf4c6a9[m Updated color scheme
+[33mcace50d[m Changed color
+[33mdbc107b[m Add navigation menu to default layout
+[33m7d50bba[m Add initial CV document
+[33m834b9b0[m Add CV.docx to repository
+[33me5c618c[m Fix formatting at end of README.md
+[33m9369c20[m Remove outdated teaching roles from README
+[33m07abd28[m Add .gitignore to exclude CV.docx
+[33m5af143e[m Redesign layout and update styles for site overhaul
+[33m9d7cdfb[m Replace SCSS with HTML template in style.scss
+[33m95cffef[m Fix typo in SCSS import statement
+[33mfd40846[m Fix typo in SCSS import statement
+[33m1291e59[m Fix SCSS import statement for theme
+[33m8fc01ba[m Update title punctuation in index.md
+[33me8e2ce9[m Remove trailing whitespace in _config.yml
+[33m45889fd[m Update CV description formatting in config
+[33m326d5e9[m Reorder config and update index layout
+[33m118e54d[m Switch to remote Cayman theme and add plugin
+[33mfcee22c[m Update header background color in style.scss
+[33mef3be09[m Update header background color in style.scss
+[33m55e8ce0[m Add custom header styles to SCSS
+[33me59b5dd[m Remove custom styles from style.scss
+[33mf08638c[m Remove duplicate Jekyll config file
+[33mf3cf753[m Add Jekyll site configuration file
+[33m0426737[m Add custom SCSS stylesheet and update index.md
+[33me75bf15[m Add blank line at end of _config.yml
+[33m306d047[m Create _config.yml
+[33m89b5b7c[m Remove index.md configuration file
+[33ma98c1c6[m Add Jekyll site configuration file
+[33md549158[m Reorder and clarify Table of Contents section
+[33md9c9d1a[m Remove unused Jekyll config file
+[33m89283be[m Add Jekyll site configuration file
+[33mb569c97[m Remove unused Jekyll config file
+[33m37f7abf[m Move _config.yml to _layouts directory
+[33m82199b6[m Add Jekyll site configuration file
+[33mbdd2f9e[m Remove Jekyll site configuration file
+[33m70c62b2[m Remove trailing blank line from _config.yml
+[33mcd7220a[m Revamp layout and navigation; clean up index.md
+[33m9d9c1e6[m Add detailed section links to research interests
+[33m1eace13[m Add quotes around Cayman theme in project description
+[33me58de56[m Add website development section to projects page
+[33m85f0530[m Update README TOC and education formatting
+[33mcdc9eae[m Update research interests in index.md
+[33m7e4c920[m Update academic portfolio content and affiliations
+[33m42ab636[m Rename featured image file for clarity
+[33m32ed28f[m Add Cayman theme and new layouts for site
+[33mbe1347a[m Revise portfolio content and add table of contents
+[33m5520b3f[m Update publication status in index.md
+[33md14da84[m Add featured image asset
+[33mad29d3f[m Initialize Jekyll site with config and index page
+[33ma6f2d26[m Expand and update academic CV in README
+[33md145a25[m Initial commit
