@@ -37,3 +37,70 @@ header.page-header a:hover {
   background-color: orange;
   color: white !important;
 }
+/* Visual Analysis Workshop page */
+.visual-workshop .workshop-item {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.visual-workshop .workshop-item-title {
+  color: darkslategray;
+}
+
+.visual-workshop .workshop-figure {
+  margin: 0 0 1.5em 0;
+}
+
+.visual-workshop .workshop-figure img {
+  max-width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.visual-workshop .metadata-table {
+  margin-top: 0.75em;
+  font-size: 0.9em;
+  border-collapse: collapse;
+}
+
+.visual-workshop .metadata-table th {
+  text-align: left;
+  padding: 0.25em 0.75em 0.25em 0;
+  color: darkslategray;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.visual-workshop .metadata-table td {
+  padding: 0.25em 0;
+}
+
+.visual-workshop .workshop-readings {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+}
+
+.visual-workshop .workshop-reading {
+  flex: 1 1 300px;
+  padding: 1em 1.25em;
+  border-radius: 6px;
+}
+
+.visual-workshop .ai-reading {
+  background-color: #f4f8f8;
+  border-left: 4px solid darkslategray;
+}
+
+.visual-workshop .disciplinary-reading {
+  background-color: #fff8ef;
+  border-left: 4px solid orange;
+}
+
+.visual-workshop .workshop-reading h3 {
+  margin-top: 0;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
