@@ -12,7 +12,8 @@ title: Teaching Experience
 
 ## ENG 1211: English Composition II  
 - Research writing course with rhetorical reflection  
-- Fall 2025 - Present
+- Fall 2025 
+  
 ## ENC 1101: First-Year Writing (In-Person)
 Graduate Teaching Associate, University of Central Florida
 - Instructor of record for First-Year Writing (Spring 2026, 2 sections)
