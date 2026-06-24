@@ -65,7 +65,7 @@ Orlando, FL • al831709@ucf.edu
 - Participated in departmental pedagogy training for online teaching certification (ADL5000).
 
 [<span class="smallcaps">South College</span>](https://www.southuniversity.edu) *(Orlando Campus)*  
-07/2025 – Present
+07/2025 – 12/2025
 
 **Adjunct Instructor & Tutor – General Studies English ENG 1201 & ENG 1211 (Hybrid – In-Person & Online)**
 
