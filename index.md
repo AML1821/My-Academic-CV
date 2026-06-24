@@ -52,13 +52,13 @@ My teaching centers on **reflection, inclusivity, and rhetorical awareness**. I 
 ---
 
 ### Contact
-- **Email:** al831709@ucf.edu  
+- **Email:** alicia.lienhart@ucf.edu  
 - **Location:** Orlando, FL  
 
 ---
 
 ### Follow Me
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)  
+- [LinkedIn](https://www.linkedin.com/in/alicia-lienhart1212)  
 - [GitHub](https://github.com/AML1821)
 - 
 
