@@ -44,6 +44,26 @@ Orlando, FL • al831709@ucf.edu
 
 **<span class="smallcaps">Professional Teaching & Writing Experience</span>**
 
+[<span class="smallcaps">University of Central Florida</span>](https://www.ucf.edu) *(Orlando Campus)*  
+01/2026 – Present
+
+**Graduate Teaching Associate (GTA) – Texts and Technology, Department of Writing and Rhetoric**
+
+*ENG 1101 (In-Person)*
+
+- Instructor of record for First-Year Writing (Spring 2026 ENC 1101, 2 sections).
+- Designed syllabi, assignments, and assessment criteria aligned with program outcomes.
+- Provided instruction in academic writing, rhetoric, MLA/APA citation, and revision.
+- Participated in departmental pedagogy training.
+- Position funded with full tuition waiver and health insurance.
+
+*ENG 1102 (Web-based)*
+
+- Instructor of record for First-Year Writing (Summer C 2026 ENC 1102, 2 sections).
+- Designed syllabi, assignments, and assessment criteria aligned with program outcomes.
+- Provided instruction in research and academic writing, primary and secondary sources, MLA/APA citation, and revision.
+- Participated in departmental pedagogy training for online teaching certification (ADL5000).
+
 [<span class="smallcaps">South College</span>](https://www.southuniversity.edu) *(Orlando Campus)*  
 07/2025 – Present
 
@@ -65,8 +85,14 @@ Orlando, FL • al831709@ucf.edu
 
 **<span class="smallcaps">Invited Presentations & Professional Development</span>**
 
+- "Networks." Invited seminar presentation. ENC 6810, Dr. Bruce Janz. University of Central Florida. March 10, 2026.
 - Selected to co-present in GSOLE's national webinar series focused on online literacy and composition pedagogy, "Beginning the Conversation: AI-Generated Texts and Social Reflection as Starting Points for Building Rhetorical Knowledge," presented virtually, 01/2026.
 - Collaborating with *UCF Department of Writing and Rhetoric* faculty mentors (Kara Taczak, Ph.D., Meghan Velez, Ph.D.) to design interactive materials for synchronous and asynchronous delivery.
+
+**<span class="smallcaps">Digital Projects</span>**
+
+- *A Century of Influence: Tracing Spielberg's Cinematic Bloodline.* Collaborative StoryMap. With Tyler Gillis and Jordan Kearschner. March 30, 2026. [View project](https://storymaps.arcgis.com/stories/419c724336974b2aa4a7567fde7a3768)
+- *Florida as the Tropical Other: Mapping American Orientalism Through Horror.* Collaborative StoryMap. With Tyler Gillis and Jordan Kearschner. March 6, 2026. [View project](https://storymaps.arcgis.com/stories/feead3f54247439e96c4300b16d0599b)
 
 **<span class="smallcaps">Teaching Methodologies & Assessment Tools</span>**
 
