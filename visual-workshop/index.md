@@ -31,9 +31,6 @@ composition research.
 
 ## Reflection
 
-Replace this section with your closing reflection: what patterns emerged
-across the four AI analyses versus your disciplinary readings? Where did
-the AI's observations stop short of rhetorical or historical context that a
-rhetoric and composition lens supplies? What does this exercise suggest
-about using AI tools like Claude as a starting point — rather than a
-substitute — for disciplinary visual analysis?
+For this exercise I selected four public-domain archival images from the Library of Congress relevant to the history of rhetoric and composition: a photograph of a teacher and students gathered around library books, a photograph of a teacher modeling cursive penmanship at a chalkboard, an exterior photograph of Stephen King's house in Bangor, Maine, and an 18th-century hand-colored satirical print titled "The Moment of Imagination." I asked Claude to describe and analyze each image, then paired its output with metadata and my own disciplinary reading.
+Across all four images, Claude is reliably accurate at the level of visual description. What Claude consistently missed was context that depends on disciplinary knowledge rather than visual information alone. It described the chalkboard photograph as a handwriting lesson without registering that the model text on the board reflects an entire pedagogy built on imitation rather than process. With the King house, Claude could name the architectural style and the bat-and-spider ironwork but did not connect that ornamentation to the rhetorical work of authorial branding. The starkest gap was in the 1788 print, where Claude's description was accurate but flat — it read the image as a catalog of objects rather than as satire about the writing process itself.
+For students, the most valuable takeaway is this: AI-assisted visual analysis is a strong starting point for description and metadata, but it tends to treat images as inventories of objects rather than as rhetorical acts embedded in genres, audiences, and historical conversations. The guiding question is not whether the AI is right, but what its reading reveals about how it processes images — and what that reveals about what a trained disciplinary reader brings to the same material.
