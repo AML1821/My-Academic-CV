@@ -11,14 +11,24 @@
   subject: "Elementary school teacher and students gathered around library books"
   license: "Public domain"
   ai_analysis: >
-    Replace with Claude's analysis of this image — composition, lighting,
-    body language, and what the image seems designed to communicate about
-    literacy and the library as a social space.
+    Claude's analysis described a black-and-white photograph of a teacher
+    and a group of children clustered closely around a table, with
+    bookshelves visible in the background. Claude identified the setting
+    as a school library or classroom reading corner, noted the dense
+    composition of bodies and faces, and observed that the children's
+    attention is directed toward printed materials, suggesting a reading
+    or book-selection activity.
   rhet_comp_reading: >
-    Replace with your disciplinary reading — e.g., what this image argues
-    about literacy sponsorship, the visual rhetoric of mid-century reading
-    instruction, or how the photograph constructs an ethos of communal
-    literacy.
+    A rhetoric and composition historian would notice what Claude's
+    description leaves implicit: this image documents a specific
+    pedagogical moment in the history of literacy instruction, the
+    introduction of trade books and library access into elementary
+    classrooms, which connects to broader twentieth-century debates about
+    reading instruction, access to print culture, and the role of the
+    school library as a site where students first encounter a discourse
+    community's texts. The crowding and physical closeness also speak to
+    resource scarcity in ways that matter to historians of educational
+    equity, a dimension Claude's description does not register.
 
 - id: 2
   image: /assets/images/visual-workshop/image-2.jpg
@@ -29,14 +39,23 @@
   subject: "Teacher modeling cursive penmanship on a chalkboard for a line of young students"
   license: "Public domain"
   ai_analysis: >
-    Replace with Claude's analysis of this image — staging, the chalkboard
-    text itself, classroom hierarchy, and what visual cues signal about
-    pedagogy and discipline.
+    Claude's analysis identified a teacher at a chalkboard covered in
+    cursive handwriting samples, with a row of young students standing
+    close to the board watching her demonstrate. Claude transcribed
+    portions of the visible cursive text and described the formal
+    classroom arrangement, noting the students' uniform posture and
+    proximity to the writing surface.
   rhet_comp_reading: >
-    Replace with your disciplinary reading — e.g., handwriting pedagogy as
-    a technology of literacy, the rhetorical function of the model text on
-    the board, or embodied/disciplinary aspects of early writing
-    instruction.
+    Where Claude treats this primarily as a literacy or
+    handwriting-instruction scene, a composition historian would read it
+    as an early artifact of how writing itself was taught as a genre with
+    fixed conventions, well before process pedagogy. The chalkboard text
+    Claude transcribed is itself a genre exemplar, a model text students
+    were expected to copy and internalize, which connects directly to
+    discussions of how genres are taught through imitation before they
+    are taught through analysis. Claude can read the words on the board;
+    it does not register that copying a model text was itself the
+    dominant composition pedagogy of this era.
 
 - id: 3
   image: /assets/images/visual-workshop/image-3.jpg
@@ -47,13 +66,23 @@
   subject: "Exterior view of author Stephen King's Bangor, Maine residence, including wrought-iron gate with bat and spider motifs"
   license: "Public domain"
   ai_analysis: >
-    Replace with Claude's analysis of this image — architecture, the gate's
-    iconography, and what the image communicates about authorship, genre,
-    and place.
+    Claude's analysis described a large red Victorian house with a
+    turret, decorative ironwork gates featuring bat and spider-web
+    designs, and well-maintained grounds. Claude correctly identified the
+    architectural style as Victorian/Queen Anne and noted the gate
+    ornamentation as thematically distinctive, though it did not name the
+    house's owner or significance without additional context.
   rhet_comp_reading: >
-    Replace with your disciplinary reading — e.g., the house as paratext to
-    an authorial brand, genre signaling through visual iconography, or the
-    rhetoric of literary tourism and authorship as a public text.
+    A rhetoric and writing studies reading of this image is less about
+    architecture and more about authorship and genre branding: the
+    house's gothic ornamentation functions as paratext, a visual signal
+    of the author's identity and genre that exists outside any of King's
+    actual texts but shapes how audiences approach them. This connects to
+    discussions of how discourse communities recognize members and
+    genres through visual and material signals, not just textual ones.
+    Claude's description captures the visual facts but does not connect
+    them to the rhetorical work the house's public-facing design performs
+    for fans and literary tourists.
 
 - id: 4
   image: /assets/images/visual-workshop/image-4.jpg
@@ -65,12 +94,22 @@
   subject: "Satirical hand-colored etching of a writer in a chair gesturing toward a portrait, with a caged bird and discarded papers on the floor"
   license: "Public domain"
   ai_analysis: >
-    Replace with Claude's analysis of this image — satire conventions,
-    symbolism of the caged bird and scattered papers, and what the etching
-    suggests about period attitudes toward authorship and inspiration.
+    Claude's analysis described a hand-colored 18th-century print showing
+    a seated man in period dress gesturing emphatically toward a framed
+    portrait on the wall, with a birdcage above and crumpled papers
+    scattered on the floor near an overturned hat. Claude identified the
+    genre as satirical or caricature-style print and noted the title,
+    "The Moment of Imagination," along with visible text reading "Bravo
+    Captain Prologue! Bravo!"
   rhet_comp_reading: >
-    Replace with your disciplinary reading — e.g., the caricature as a
-    rhetorical commentary on Romantic-era notions of inspiration, the
-    visual satire of the writing process, or how the print constructs
-    (and mocks) the figure of "the writer."
-    
+    This is the image where the gap between AI and humanistic reading is
+    widest. Claude's description is accurate but flat: it catalogs
+    objects without registering the print as a piece of rhetorical satire
+    about the writing process itself. A rhetoric historian would read the
+    discarded, crumpled drafts on the floor as a visual argument about
+    composition as struggle and revision, the caged bird as a possible
+    commentary on confined or performative inspiration, and the title's
+    irony as the entire point of the piece. Claude can transcribe the
+    caption; it cannot recognize that the caption is doing ironic work
+    against the image, which is exactly the kind of rhetorical move close
+    reading is trained to catch.
