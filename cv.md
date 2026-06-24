@@ -93,6 +93,9 @@ Orlando, FL • al831709@ucf.edu
 
 - *A Century of Influence: Tracing Spielberg's Cinematic Bloodline.* Collaborative StoryMap. With Tyler Gillis and Jordan Kearschner. March 30, 2026. [View project](https://storymaps.arcgis.com/stories/419c724336974b2aa4a7567fde7a3768)
 - *Florida as the Tropical Other: Mapping American Orientalism Through Horror.* Collaborative StoryMap. With Tyler Gillis and Jordan Kearschner. March 6, 2026. [View project](https://storymaps.arcgis.com/stories/feead3f54247439e96c4300b16d0599b)
+- *My Academic Portfolio.* Personal academic website. Jekyll, GitHub Pages, Markdown. October 2025. [View site](https://aml1821.github.io/My-Academic-CV/) | [View repository](https://github.com/aml1821/My-Academic-CV)
+
+- *Visual Analysis Workshop: Genre, Rhetoric, and AI-Assisted Visual Interpretation.* Interactive multi-file web project. Jekyll, GitHub Pages, Claude Code. June 2026. Pairs archival images from the Library of Congress with AI analysis and disciplinary readings in rhetoric and composition. [View project](https://aml1821.github.io/My-Academic-CV/visual-workshop/) | [View repository](https://github.com/aml1821/My-Academic-CV)
 
 **<span class="smallcaps">Teaching Methodologies & Assessment Tools</span>**
 
